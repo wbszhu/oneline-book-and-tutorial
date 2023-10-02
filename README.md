@@ -11,4 +11,7 @@
 
 ## CUT&Tag
 [yezheng](https://yezhengstat.github.io/)
-
+[CTCF](https://dozmorovlab.github.io/CTCF/)  CTCF defines an AnnotationHub resource representing genomic coordinates of FIMO-predicted CTCF binding sites for human and mouse genomes, including the Telomere-to-Telomere and mm39 genome assemblies. It also includes experimentally defined CTCF-bound cis-regulatory elements from ENCODE SCREEN.  
+## Other
+[CS自学指南](https://csdiy.wiki/)
+[luohao-brian](https://luohao-brian.gitbooks.io/gene_sequencing_book/content/di-1-8282-ce-xu-ji-zhu.html)
